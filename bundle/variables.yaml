@@ -1,0 +1,4 @@
+variables:
+- team: jenkinsdeclarativepipelinesession
+- admin-user: akdoingdevops-admin
+- manager-user: akdoingdevops
